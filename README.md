@@ -1,6 +1,7 @@
 # git-flow (AVH Edition)
 feature/test02
 feature/test02
+feature/test02
 
 A collection of Git extensions to provide high-level repository operations
 for Vincent Driessen's [branching model](http://nvie.com/git-model "original
